@@ -15,7 +15,7 @@ Welcome! This is my personal collection of Python code snippets, mini-projects, 
 ---
 
 ## 📁 Structure
-
+/
 ├── snippets/ # Small standalone code examples
 ├── experiments/ # Tests and fun with new ideas or libraries
 ├── notes/ # Explanatory notes and markdown writeups
